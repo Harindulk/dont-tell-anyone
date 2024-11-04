@@ -1,0 +1,4 @@
+repository "dont-tell-anyonee@Starfun_Games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
